@@ -1,0 +1,4 @@
+b3fa5b98	(Ravi Shankar	2024-11-30 20:34:15 +0530	1)<h1> This is our contact details </h1>
+b3fa5b98	(Ravi Shankar	2024-11-30 20:34:15 +0530	2)<h2> Phone Number: 6253725102 </h2>
+665a59c7	(      Dev2	2024-12-01 11:55:42 +0000	3)<h2> Email: name1@email.com </h2>
+665a59c7	(      Dev2	2024-12-01 11:55:42 +0000	4)<h2> X: name1@email.com </h2>
